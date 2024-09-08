@@ -5,17 +5,17 @@ Este repositório tem como objetivo em fornecer templates para auxiliar na docum
 # Modelos Disponíveis
 
 - [Modelo de História Geral](templates-br/template-para-história-geral.md)
-- [Modelo de Cutscene](#templates-br/cutscene-template.md)
-- [Modelo de Diálogos](#templates-br/template-de-dialogos.md)
-- [Modelo de Descrição de Personagem](#templates-br/template-de-descricao-de-personagem.md)
-- [Modelo para Descrever Locais em Jogos](#templates-br/template-para-descrever-locais-em-jogos.md)
-- [Modelo para Objetivos no Jogo](#templates-br/template-para-objetivos-no-jogo.md)
-- [Modelo para Armas no Jogo](#templates-br/template-para-armas-no-jogo.md)
-- [Modelo para Enemy Behavior](#templates-br/template-para-enemy-behavior.md)
-- [Modelo para Combat System](#templates-br/template-para-combat-system.md)
-- [Modelo para Puzzle System](#templates-br/template-para-puzzle-system.md)
-- [Modelo para Exploration Mechanics](#templates-br/template-para-exploration-mechanics.md)
-- [Modelo para Design de Narrativa de Jogo](#templates-br/template-para-design-de-narrativa-de-jogo.md)
+- [Modelo de Cutscene](templates-br/cutscene-template.md)
+- [Modelo de Diálogos](templates-br/template-de-dialogos.md)
+- [Modelo de Descrição de Personagem](templates-br/template-de-descricao-de-personagem.md)
+- [Modelo para Descrever Locais em Jogos](templates-br/template-para-descrever-locais-em-jogos.md)
+- [Modelo para Objetivos no Jogo](templates-br/template-para-objetivos-no-jogo.md)
+- [Modelo para Armas no Jogo](templates-br/template-para-armas-no-jogo.md)
+- [Modelo para Enemy Behavior](templates-br/template-para-enemy-behavior.md)
+- [Modelo para Combat System](templates-br/template-para-combat-system.md)
+- [Modelo para Puzzle System](templates-br/template-para-puzzle-system.md)
+- [Modelo para Exploration Mechanics](templates-br/template-para-exploration-mechanics.md)
+- [Modelo para Design de Narrativa de Jogo](templates-br/template-para-design-de-narrativa-de-jogo.md)
 
 # Exemplo de estrutura de documentação do projeto
 

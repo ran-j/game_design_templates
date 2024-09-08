@@ -39,7 +39,7 @@ Este repositório tem como objetivo em fornecer templates para auxiliar na docum
          - mood_board.png
       /audio
          - soundtrack1.mp3
-         - sound_effect.mp3
+         - sound_effect.zip
     /dialogues
         - scene1.md
         - scene2.md

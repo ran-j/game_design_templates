@@ -4,7 +4,7 @@ Este repositório tem como objetivo em fornecer templates para auxiliar na docum
 
 # Modelos Disponíveis
 
-- [Modelo de História Geral](templates-br/template-para-história-geral.md)
+- [Modelo de História Geral](templates-br/template-para-historia-geral.md)
 - [Modelo de Cutscene](templates-br/cutscene-template.md)
 - [Modelo de Diálogos](templates-br/template-de-dialogos.md)
 - [Modelo de Descrição de Personagem](templates-br/template-de-descricao-de-personagem.md)
